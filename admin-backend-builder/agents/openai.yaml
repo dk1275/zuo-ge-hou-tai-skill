@@ -1,0 +1,4 @@
+interface:
+  display_name: "做个后台 skill"
+  short_description: "搭建可上线、可维护、可审计的内容管理后台"
+  default_prompt: "请按做个后台 skill 规划并实现这个管理后台，先读项目地图，再建立数据、权限、富文本、保存发布和部署验收闭环。"
